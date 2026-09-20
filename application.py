@@ -4,4 +4,4 @@ application = Flask(__name__)
 
 @application.route("/")
 def index():
-    return "Hello from ${custom_identifier} Elastic Beanstalk CI-CD"
+    return "Hello from 3a5fda50 Elastic Beanstalk CI-CD"
